@@ -1,9 +1,0 @@
-{
-    "backup_intervall": 1440,
-    "sync_ordner": [
-        "E:/Desktop/Universit\u00e4t"
-    ],
-    "last_sync": "2025-02-20T17:46:00.750991",
-    "sync_device": "D:\\auto_backup",
-    "max_backups": 5
-}
