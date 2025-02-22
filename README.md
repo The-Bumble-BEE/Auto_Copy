@@ -13,3 +13,6 @@ Pull requests are welcome! Make sure you open an issue before posting.
 
 ## 📜 Lizenz
 This project is licensed under the MIT license.
+
+## ☕ Donate
+If you link this Code, you can donate via Bitcoin: bc1qvg3thskmtlvvue84zzkygpp49txzjuk3mw55vx
