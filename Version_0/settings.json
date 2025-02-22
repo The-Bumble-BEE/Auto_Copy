@@ -1,0 +1,10 @@
+{
+    "backup_intervall": 1440,
+    "sync_ordner": [
+        "Desktop",
+        "Downloads"
+    ],
+    "last_sync": "2025-02-20T17:46:00.750991",
+    "sync_device": "D:\\auto_backup",
+    "max_backups": 5
+}
